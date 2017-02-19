@@ -1,0 +1,9 @@
+{
+	"messages":[
+	{"name":"test_name",
+	 "message" :"test_msg"
+	},{"name":"test_name2",
+	 "message" :"test_msg2"
+	}
+	]
+}
